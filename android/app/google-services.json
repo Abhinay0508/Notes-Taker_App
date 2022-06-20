@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210360070440",
+    "project_id": "notes-taker-fa624",
+    "storage_bucket": "notes-taker-fa624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210360070440:android:b6808ea243c375d522e01d",
+        "android_client_info": {
+          "package_name": "com.example.notes_taker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210360070440-23g8rc2p6t1b79vog9ts4d45bktnl7ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeibYgeITgMC_G9AtJa7S94wdXIIKZZiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210360070440-23g8rc2p6t1b79vog9ts4d45bktnl7ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
